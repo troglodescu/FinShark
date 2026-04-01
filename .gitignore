@@ -1,0 +1,6 @@
+/.vs/
+/.vscode/
+/api/bin/
+/api/obj/
+/api/Debug/
+/api/Release/
